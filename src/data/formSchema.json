@@ -1,0 +1,210 @@
+{
+  "steps": [
+    {
+      "id": "step_1",
+      "stepNumber": "01",
+      "category": "CATEGORY_LABEL",
+      "heading": "Your step one heading goes here",
+      "headingHighlight": "step one heading",
+      "subtitle": "A short supporting line that gives context to this step.",
+      "questions": [
+        {
+          "id": "q1_field_one",
+          "type": "slider",
+          "label": "Your first slider question goes here",
+          "labelHighlight": "slider question",
+          "min": 0,
+          "max": 100,
+          "minLabel": "Min label",
+          "maxLabel": "Max label",
+          "unit": "%",
+          "default": 50
+        },
+        {
+          "id": "q1_field_two",
+          "type": "slider",
+          "label": "Your second slider question goes here",
+          "labelHighlight": "second slider question",
+          "min": 0,
+          "max": 100,
+          "minLabel": "Min label",
+          "maxLabel": "Max label",
+          "default": 50
+        },
+        {
+          "id": "q1_field_three",
+          "type": "pill_select",
+          "label": "Your first pill select question goes here",
+          "labelHighlight": "pill select question",
+          "options": [
+            "Option one",
+            "Option two",
+            "Option three",
+            "Option four"
+          ]
+        },
+        {
+          "id": "q1_field_four",
+          "type": "pill_select",
+          "label": "Your second pill select question goes here",
+          "labelHighlight": "second pill select question",
+          "options": [
+            "Option one",
+            "Option two",
+            "Option three",
+            "Option four"
+          ]
+        },
+        {
+          "id": "q1_field_five",
+          "type": "pill_select",
+          "label": "Your third pill select question goes here",
+          "labelHighlight": "third pill select question",
+          "subtitle": "Optional: a clarifying note beneath the question label.",
+          "options": [
+            "Option one",
+            "Option two",
+            "Option three"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "step_2",
+      "stepNumber": "02",
+      "category": "CATEGORY_LABEL",
+      "heading": "Your step two heading goes here",
+      "headingHighlight": "step two heading",
+      "subtitle": "A short supporting line that gives context to this step.",
+      "questions": [
+        {
+          "id": "q2_field_one",
+          "type": "pill_select",
+          "label": "Your first pill select question goes here",
+          "labelHighlight": "pill select question",
+          "options": [
+            "Option one",
+            "Option two",
+            "Option three",
+            "Option four"
+          ]
+        },
+        {
+          "id": "q2_field_two",
+          "type": "pill_select",
+          "label": "Your second pill select question goes here",
+          "labelHighlight": "second pill select question",
+          "options": [
+            "Option one",
+            "Option two",
+            "Option three",
+            "Option four",
+            "Option five"
+          ]
+        },
+        {
+          "id": "q2_field_three",
+          "type": "pill_select",
+          "label": "Your third pill select question goes here",
+          "labelHighlight": "third pill select question",
+          "options": [
+            "Option one",
+            "Option two",
+            "Option three",
+            "Option four"
+          ]
+        },
+        {
+          "id": "q2_field_four",
+          "type": "pill_select",
+          "label": "Your fourth pill select question goes here",
+          "labelHighlight": "fourth pill select question",
+          "subtitle": "Optional: a clarifying note beneath the question label.",
+          "options": [
+            "Option one",
+            "Option two"
+          ]
+        },
+        {
+          "id": "q2_field_five",
+          "type": "slider",
+          "label": "Your slider question goes here",
+          "labelHighlight": "slider question",
+          "min": 0,
+          "max": 100,
+          "minLabel": "Min label",
+          "maxLabel": "Max label",
+          "default": 50
+        },
+        {
+          "id": "q2_field_six",
+          "type": "pill_select",
+          "label": "Your fifth pill select question goes here",
+          "labelHighlight": "fifth pill select question",
+          "subtitle": "Optional: a clarifying note beneath the question label.",
+          "options": [
+            "Option one",
+            "Option two",
+            "Option three"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "step_3",
+      "stepNumber": "03",
+      "category": "CATEGORY_LABEL",
+      "heading": "Your step three heading goes here",
+      "headingHighlight": "step three heading",
+      "subtitle": "A short supporting line that gives context to this step.",
+      "questions": [
+        {
+          "id": "q3_field_one",
+          "type": "pill_select",
+          "label": "Your first pill select question goes here",
+          "labelHighlight": "pill select question",
+          "options": [
+            "Option one",
+            "Option two",
+            "Option three"
+          ]
+        },
+        {
+          "id": "q3_field_two",
+          "type": "pill_select",
+          "label": "Your second pill select question goes here",
+          "labelHighlight": "second pill select question",
+          "options": [
+            "Option one",
+            "Option two",
+            "Option three"
+          ]
+        },
+        {
+          "id": "q3_field_three",
+          "type": "pill_select",
+          "label": "Your third pill select question goes here",
+          "labelHighlight": "third pill select question",
+          "options": [
+            "Option one",
+            "Option two",
+            "Option three",
+            "Option four",
+            "Option five",
+            "Option six"
+          ]
+        },
+        {
+          "id": "q3_field_four",
+          "type": "pill_select",
+          "label": "Your fourth pill select question goes here",
+          "labelHighlight": "fourth pill select question",
+          "options": [
+            "Option one",
+            "Option two"
+          ]
+        }
+      ]
+    }
+  ]
+}
